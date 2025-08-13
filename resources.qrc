@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/maps/scene1.png</file>
+        <file>assets/maps/scene2.png</file>
+        <file>assets/maps/scene3.png</file>
+        <file>assets/icons/adder.png</file>
+        <file>assets/icons/chest.png</file>
+        <file>assets/icons/clock.png</file>
+        <file>assets/icons/not_gate.png</file>
+        <file>assets/icons/or_gate.png</file>
+        <file>assets/icons/player.png</file>
+        <file>assets/icons/xor_gate.png</file>
+        <file>assets/icons/and_gate.png</file>
+        <file>assets/videos/failure.mp4</file>
+    </qresource>
+</RCC>
